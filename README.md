@@ -1,4 +1,4 @@
-# php-photo-gallery
+# How to create a dynamic php photo gallery with GD library
 Source code for tutorial How to create a photo gallery using php
 
 URL: http://programmerblog.net
